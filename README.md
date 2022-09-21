@@ -1,4 +1,4 @@
-![Y-Matter Type](https://mpospese.com/wp-content/uploads/2022/08/YMatterType-hero-compact.jpeg)
+![Y-Matter Type](logo.jpeg)
 [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyml-org%2FYMatterType%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/yml-org/YMatterType) [![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fyml-org%2FYMatterType%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/yml-org/YMatterType)  
 _An opinionated take on Design System Typography for iOS._
 
